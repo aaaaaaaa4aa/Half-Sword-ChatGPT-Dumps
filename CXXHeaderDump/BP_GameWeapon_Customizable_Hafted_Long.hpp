@@ -1,0 +1,8 @@
+#ifndef UE4SS_SDK_BP_GameWeapon_Customizable_Hafted_Long_HPP
+#define UE4SS_SDK_BP_GameWeapon_Customizable_Hafted_Long_HPP
+
+class UBP_GameWeapon_Customizable_Hafted_Long_C : public UBP_GameWeapon_Customizable_Hafted_C
+{
+}; // Size: 0x1F0
+
+#endif
