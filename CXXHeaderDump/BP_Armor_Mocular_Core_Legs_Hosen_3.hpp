@@ -1,0 +1,11 @@
+#ifndef UE4SS_SDK_BP_Armor_Mocular_Core_Legs_Hosen_3_HPP
+#define UE4SS_SDK_BP_Armor_Mocular_Core_Legs_Hosen_3_HPP
+
+class ABP_Armor_Mocular_Core_Legs_Hosen_3_C : public ABP_Armor_Modular_Core_Master_C
+{
+    class UFireComponent* Fire;                                                       // 0x0A68 (size: 0x8)
+
+    void UserConstructionScript();
+}; // Size: 0xA70
+
+#endif

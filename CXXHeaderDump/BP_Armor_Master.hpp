@@ -1,0 +1,86 @@
+#ifndef UE4SS_SDK_BP_Armor_Master_HPP
+#define UE4SS_SDK_BP_Armor_Master_HPP
+
+class ABP_Armor_Master_C : public AActor
+{
+    FPointerToUberGraphFrame UberGraphFrame;                                          // 0x0290 (size: 0x8)
+    class UStaticMeshComponent* Armor Mesh Static;                                    // 0x0298 (size: 0x8)
+    class USkeletalMeshComponent* Armor Mesh Skeletal;                                // 0x02A0 (size: 0x8)
+    class USceneComponent* DefaultSceneRoot;                                          // 0x02A8 (size: 0x8)
+    TArray<class UStaticMesh*> CollisionMesh;                                         // 0x02B0 (size: 0x10)
+    bool Simulates Physics;                                                           // 0x02C0 (size: 0x1)
+    bool Hide Ears (BS);                                                              // 0x02C1 (size: 0x1)
+    bool Hide Jaw (BS);                                                               // 0x02C2 (size: 0x1)
+    TEnumAsByte<ArmorSlots_Enum::Type> Armor Slot;                                    // 0x02C3 (size: 0x1)
+    TArray<FName> Block Dismember Bone;                                               // 0x02C8 (size: 0x10)
+    int32 Team;                                                                       // 0x02D8 (size: 0x4)
+    TMap<TEnumAsByte<ArmorSlots_Enum::Type>, bool> Blocked Slots;                     // 0x02E0 (size: 0x50)
+    double Protection Blunt;                                                          // 0x0330 (size: 0x8)
+    double Protection Cut;                                                            // 0x0338 (size: 0x8)
+    double Protection Stab;                                                           // 0x0340 (size: 0x8)
+    TMap<TEnumAsByte<HideBodyPart_Enum::Type>, bool> Hide Body Parts;                 // 0x0348 (size: 0x50)
+    double Material Density;                                                          // 0x0398 (size: 0x8)
+    TMap<class FName, class bool> Affected Bones;                                     // 0x03A0 (size: 0x50)
+    TArray<FName> Layer Levels;                                                       // 0x03F0 (size: 0x10)
+    FVector Visor Location;                                                           // 0x0400 (size: 0x18)
+    FRotator Visor Max Open;                                                          // 0x0418 (size: 0x18)
+    class UPhysicsAsset* Physics Asset;                                               // 0x0430 (size: 0x8)
+    double Mass Scale;                                                                // 0x0438 (size: 0x8)
+    bool Pick Up;                                                                     // 0x0440 (size: 0x1)
+    TMap<FName, double> Armor Plate Sound;                                            // 0x0448 (size: 0x50)
+    TMap<FName, double> Armor Mail Sound;                                             // 0x0498 (size: 0x50)
+    class USoundCue* Hit Sound;                                                       // 0x04E8 (size: 0x8)
+    bool Dynamic Color;                                                               // 0x04F0 (size: 0x1)
+    TEnumAsByte<Enum_Clothing_Material::Type> Material;                               // 0x04F1 (size: 0x1)
+    class UMaterialInstanceDynamic* Dynamic Material;                                 // 0x04F8 (size: 0x8)
+    FTransform World Transform;                                                       // 0x0500 (size: 0x60)
+    bool Stop Generating DM;                                                          // 0x0560 (size: 0x1)
+    FStr_Medieval_Color_Swatches Color 1;                                             // 0x0568 (size: 0x28)
+    FStr_Medieval_Color_Swatches Color 2;                                             // 0x0590 (size: 0x28)
+    FStr_Medieval_Color_Swatches Color 3;                                             // 0x05B8 (size: 0x28)
+    bool World Mesh Static;                                                           // 0x05E0 (size: 0x1)
+    class UPrimitiveComponent* Armor Mesh Primitive;                                  // 0x05E8 (size: 0x8)
+    TArray<class USkeletalMesh*> Skeletal Meshes Array;                               // 0x05F0 (size: 0x10)
+    TArray<FName> Hide Physics Bones;                                                 // 0x0600 (size: 0x10)
+    TMap<FName, double> Bone Weights;                                                 // 0x0610 (size: 0x50)
+    TMap<class FName, class FVector> Bone Constraints;                                // 0x0660 (size: 0x50)
+    double AI Invinvcibility Rate;                                                    // 0x06B0 (size: 0x8)
+    double Hands Rigidity (Gauntlets);                                                // 0x06B8 (size: 0x8)
+    FLinearColor C 1;                                                                 // 0x06C0 (size: 0x10)
+    FLinearColor C 2;                                                                 // 0x06D0 (size: 0x10)
+    FLinearColor C 3;                                                                 // 0x06E0 (size: 0x10)
+    bool Load;                                                                        // 0x06F0 (size: 0x1)
+    class USG_Equipment_C* As SG Equipment;                                           // 0x06F8 (size: 0x8)
+    double Strap Power (Helmet);                                                      // 0x0700 (size: 0x8)
+    FStr_Medieval_Color_Swatches Color Team 1;                                        // 0x0708 (size: 0x28)
+    FStr_Medieval_Color_Swatches Color Team 2;                                        // 0x0730 (size: 0x28)
+    FStr_Medieval_Color_Swatches Color Team 3;                                        // 0x0758 (size: 0x28)
+    FStr_Medieval_Color_Swatches Color Team 4;                                        // 0x0780 (size: 0x28)
+    bool Metal?;                                                                      // 0x07A8 (size: 0x1)
+    TMap<TEnumAsByte<Enum_DismembermentPart::Type>, bool> Block Dismember Part;       // 0x07B0 (size: 0x50)
+    class USG_PlayerProgression_C* As SG Player Progression;                          // 0x0800 (size: 0x8)
+    bool Fixed Color;                                                                 // 0x0808 (size: 0x1)
+    bool Unlocks Upper Arming Points;                                                 // 0x0809 (size: 0x1)
+    bool Unlocks Lower Arming Points;                                                 // 0x080A (size: 0x1)
+    bool Requires Upper Arming Points;                                                // 0x080B (size: 0x1)
+    bool Requires Lower Arming Points;                                                // 0x080C (size: 0x1)
+    double Price;                                                                     // 0x0810 (size: 0x8)
+    FStr_Passport_Armor1 Armor Passport;                                              // 0x0818 (size: 0xD8)
+    FName Name;                                                                       // 0x08F0 (size: 0x8)
+    double Overall Weight;                                                            // 0x08F8 (size: 0x8)
+    bool Don't take slots;                                                            // 0x0900 (size: 0x1)
+    TEnumAsByte<Steel_Type::Type> Steel Type;                                         // 0x0901 (size: 0x1)
+    TEnumAsByte<SecondaryMetal_Type::Type> Metal Pieces Type;                         // 0x0902 (size: 0x1)
+    double Accumulated Noise;                                                         // 0x0908 (size: 0x8)
+    class USkeletalMeshComponent* Disable Collision With;                             // 0x0910 (size: 0x8)
+
+    void Setup Armor Material(class USkeletalMeshComponent* AddedArmorMesh, FStr_Passport_Armor1 Passport, class UMaterialInstanceDynamic* SetupArmorDynamicMaterial);
+    void UserConstructionScript();
+    void ReceiveBeginPlay();
+    void BndEvt__BP_Armor_Master_Armor Mesh Static_K2Node_ComponentBoundEvent_0_ComponentHitSignature__DelegateSignature(class UPrimitiveComponent* HitComponent, class AActor* OtherActor, class UPrimitiveComponent* OtherComp, FVector NormalImpulse, const FHitResult& Hit);
+    void Recalculate Weight();
+    void BndEvt__BP_Armor_Master_Armor Mesh Skeletal_K2Node_ComponentBoundEvent_0_ComponentHitSignature__DelegateSignature(class UPrimitiveComponent* HitComponent, class AActor* OtherActor, class UPrimitiveComponent* OtherComp, FVector NormalImpulse, const FHitResult& Hit);
+    void ExecuteUbergraph_BP_Armor_Master(int32 EntryPoint);
+}; // Size: 0x918
+
+#endif
