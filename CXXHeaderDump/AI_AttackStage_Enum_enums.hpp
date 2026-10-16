@@ -1,0 +1,23 @@
+namespace AI_AttackStage_Enum {
+    enum Type {
+        NewEnumerator9 = 0,
+        NewEnumerator0 = 1,
+        NewEnumerator15 = 2,
+        NewEnumerator13 = 3,
+        NewEnumerator16 = 4,
+        NewEnumerator1 = 5,
+        NewEnumerator2 = 6,
+        NewEnumerator12 = 7,
+        NewEnumerator3 = 8,
+        NewEnumerator10 = 9,
+        NewEnumerator4 = 10,
+        NewEnumerator5 = 11,
+        NewEnumerator6 = 12,
+        NewEnumerator11 = 13,
+        NewEnumerator14 = 14,
+        NewEnumerator7 = 15,
+        NewEnumerator8 = 16,
+        AI_AttackStage_MAX = 17,
+    };
+}
+
