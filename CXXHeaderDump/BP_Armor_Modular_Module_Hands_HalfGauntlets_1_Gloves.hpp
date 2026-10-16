@@ -1,0 +1,8 @@
+#ifndef UE4SS_SDK_BP_Armor_Modular_Module_Hands_HalfGauntlets_1_Gloves_HPP
+#define UE4SS_SDK_BP_Armor_Modular_Module_Hands_HalfGauntlets_1_Gloves_HPP
+
+class ABP_Armor_Modular_Module_Hands_HalfGauntlets_1_Gloves_C : public ABP_Armor_Modular_Module_Master_C
+{
+}; // Size: 0x91C
+
+#endif
