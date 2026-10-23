@@ -1,0 +1,319 @@
+//dump 1
+
+[07:21:19.0697970] [Lua] [HalfSwordZombieProbe] ========== BEGIN READ-ONLY DUMP ==========
+[07:21:19.0698476] [Lua] [HalfSwordZombieProbe] FindAllOf('Willie_BP_Zombie_C')
+[07:21:19.0775180] [Lua] [HalfSwordZombieProbe]   [1] Willie_BP_Zombie_C /Game/Maps/Abyss/Abyss_Map_Open_EA.Abyss_Map_Open_EA:PersistentLevel.Willie_BP_Zombie_C_2147475881
+[07:21:19.0776427] [Lua] [HalfSwordZombieProbe]   Character ID = 0.0
+[07:21:19.0777082] [Lua] [HalfSwordZombieProbe]   Is Zombie? = true
+[07:21:19.0777592] [Lua] [HalfSwordZombieProbe]   Team Int = 2
+[07:21:19.0778062] [Lua] [HalfSwordZombieProbe]   Health = 100.0
+[07:21:19.0778673] [Lua] [HalfSwordZombieProbe]   AI In Combat = false
+[07:21:19.0779418] [Lua] [HalfSwordZombieProbe]   Character Passport = UserDefinedStruct /Game/Blueprints/Structure/Passports/Str_Passport_Character1.Str_Passport_Character1
+[07:21:19.0779807] [Lua] [HalfSwordZombieProbe]   total returned = 1
+[07:21:19.0780119] [Lua] [HalfSwordZombieProbe] FindAllOf('Willie_BP_C')
+[07:21:19.0848065] [Lua] [HalfSwordZombieProbe]   [1] Willie_BP_Zombie_C /Game/Maps/Abyss/Abyss_Map_Open_EA.Abyss_Map_Open_EA:PersistentLevel.Willie_BP_Zombie_C_2147475881
+[07:21:19.0848910] [Lua] [HalfSwordZombieProbe]   Character ID = 0.0
+[07:21:19.0849374] [Lua] [HalfSwordZombieProbe]   Is Zombie? = true
+[07:21:19.0849767] [Lua] [HalfSwordZombieProbe]   Team Int = 2
+[07:21:19.0850159] [Lua] [HalfSwordZombieProbe]   Health = 100.0
+[07:21:19.0850559] [Lua] [HalfSwordZombieProbe]   AI In Combat = false
+[07:21:19.0850982] [Lua] [HalfSwordZombieProbe]   Character Passport = UserDefinedStruct /Game/Blueprints/Structure/Passports/Str_Passport_Character1.Str_Passport_Character1
+[07:21:19.0851386] [Lua] [HalfSwordZombieProbe]   [2] Willie_BP_C /Game/Maps/Abyss/Abyss_Map_Open_EA.Abyss_Map_Open_EA:PersistentLevel.Willie_BP_C_2147476063
+[07:21:19.0852074] [Lua] [HalfSwordZombieProbe]   Character ID = 0.0
+[07:21:19.0852662] [Lua] [HalfSwordZombieProbe]   Is Zombie? = false
+[07:21:19.0853148] [Lua] [HalfSwordZombieProbe]   Team Int = 0
+[07:21:19.0853585] [Lua] [HalfSwordZombieProbe]   Health = 100.0
+[07:21:19.0854172] [Lua] [HalfSwordZombieProbe]   AI In Combat = false
+[07:21:19.0854727] [Lua] [HalfSwordZombieProbe]   Character Passport = UserDefinedStruct /Game/Blueprints/Structure/Passports/Str_Passport_Character1.Str_Passport_Character1
+[07:21:19.0855064] [Lua] [HalfSwordZombieProbe]   total returned = 2
+[07:21:19.0855365] [Lua] [HalfSwordZombieProbe] FindAllOf('AI_BP_C')
+[07:21:19.0922327] [Lua] [HalfSwordZombieProbe]   [1] AI_BP_C /Game/Maps/Abyss/Abyss_Map_Open_EA.Abyss_Map_Open_EA:PersistentLevel.AI_BP_C_2147475872
+[07:21:19.0923046] [Lua] [HalfSwordZombieProbe]   Abyss = false
+[07:21:19.0923472] [Lua] [HalfSwordZombieProbe]   Is Zombie? = true
+[07:21:19.0923874] [Lua] [HalfSwordZombieProbe]   Team Int = 2
+[07:21:19.0924259] [Lua] [HalfSwordZombieProbe]   Target Found = true
+[07:21:19.0926350] [Lua] [HalfSwordZombieProbe]   Allies = TArray: 000001EB2654F608
+[07:21:19.0927919] [Lua] [HalfSwordZombieProbe]   Target Candidates = TArray: 000001EB2654DB78
+[07:21:19.0928312] [Lua] [HalfSwordZombieProbe]   [2] AI_BP_C /Game/Maps/Abyss/Abyss_Map_Open_EA.Abyss_Map_Open_EA:PersistentLevel.AI_BP_C_2147476054
+[07:21:19.0928762] [Lua] [HalfSwordZombieProbe]   Abyss = false
+[07:21:19.0929209] [Lua] [HalfSwordZombieProbe]   Is Zombie? = false
+[07:21:19.0929575] [Lua] [HalfSwordZombieProbe]   Team Int = 0
+[07:21:19.0929938] [Lua] [HalfSwordZombieProbe]   Target Found = false
+[07:21:19.0931481] [Lua] [HalfSwordZombieProbe]   Allies = TArray: 000001EB2654E3F8
+[07:21:19.0932990] [Lua] [HalfSwordZombieProbe]   Target Candidates = TArray: 000001EB2654DFB8
+[07:21:19.0933313] [Lua] [HalfSwordZombieProbe]   total returned = 2
+[07:21:19.0933627] [Lua] [HalfSwordZombieProbe] FindAllOf('BP_SpawnerPoint_Willies_C')
+[07:21:19.1000087] [Lua] [HalfSwordZombieProbe]   no instances found
+[07:21:19.1000821] [Lua] [HalfSwordZombieProbe] FindAllOf('BP_HalfSwordGameMode_C')
+[07:21:19.1065106] [Lua] [HalfSwordZombieProbe]   [1] BP_HalfSwordGameMode_C /Game/Maps/Abyss/Abyss_Map_Open_EA.Abyss_Map_Open_EA:PersistentLevel.BP_HalfSwordGameMode_C_2147476089
+[07:21:19.1065853] [Lua] [HalfSwordZombieProbe]   Enemy Count = 0
+[07:21:19.1066257] [Lua] [HalfSwordZombieProbe]   Match Won = false
+[07:21:19.1066644] [Lua] [HalfSwordZombieProbe]   Player DED = false
+[07:21:19.1067035] [Lua] [HalfSwordZombieProbe]   All Enemies Dead = false
+[07:21:19.1067424] [Lua] [HalfSwordZombieProbe]   Player Team = 0
+[07:21:19.1067826] [Lua] [HalfSwordZombieProbe]   Current Rounds Amount = 0
+[07:21:19.1068205] [Lua] [HalfSwordZombieProbe]   Rounds Won = 0
+[07:21:19.1068581] [Lua] [HalfSwordZombieProbe]   Current Reward = 0
+[07:21:19.1068887] [Lua] [HalfSwordZombieProbe]   total returned = 1
+[07:21:19.1069260] [Lua] [HalfSwordZombieProbe] FindAllOf('BP_LevelManager_C')
+[07:21:19.1134691] [Lua] [HalfSwordZombieProbe]   no instances found
+[07:21:19.1135144] [Lua] [HalfSwordZombieProbe] FindAllOf('BP_GameManager_C')
+[07:21:19.1196414] [Lua] [HalfSwordZombieProbe]   no instances found
+[07:21:19.1196857] [Lua] [HalfSwordZombieProbe] FindAllOf('BP_CombatEvent_Master_C')
+[07:21:19.1258725] [Lua] [HalfSwordZombieProbe]   no instances found
+[07:21:19.1260302] [Lua] [HalfSwordZombieProbe] FindAllOf('GI_Settings_C')
+[07:21:19.1339366] [Lua] [HalfSwordZombieProbe]   [1] GI_Settings_C /Engine/Transient.GameEngine_2147482618:GI_Settings_C_2147482573
+[07:21:19.1340118] [Lua] [HalfSwordZombieProbe]   Current Game Mode Enum = 5
+[07:21:19.1340560] [Lua] [HalfSwordZombieProbe]   Current Play Mode = 0
+[07:21:19.1341012] [Lua] [HalfSwordZombieProbe]   Abyss Score = 0
+[07:21:19.1341424] [Lua] [HalfSwordZombieProbe]   Mercenaries Opening = false
+[07:21:19.1341896] [Lua] [HalfSwordZombieProbe]   Combatants Amount = 0
+[07:21:19.1343657] [Lua] [HalfSwordZombieProbe]   Available Combatants = TArray: 000001EB2654DC88
+[07:21:19.1345212] [Lua] [HalfSwordZombieProbe]   Spawned Combatants = TArray: 000001EB2654EC78
+[07:21:19.1346753] [Lua] [HalfSwordZombieProbe]   Spawned Mercenaries IDs = TArray: 000001EB2654EE98
+[07:21:19.1348381] [Lua] [HalfSwordZombieProbe]   Available Mercenaries IDs = TArray: 000001EB2654DD98
+[07:21:19.1349866] [Lua] [HalfSwordZombieProbe]   Assigned Mercenaries IDs = TArray: 000001EA4B81CC18
+[07:21:19.1351332] [Lua] [HalfSwordZombieProbe]   Dead Opponents = TArray: 000001EA4B81D278
+[07:21:19.1351923] [Lua] [HalfSwordZombieProbe]   Hired Characters = TMap: 000001EAEF118788
+[07:21:19.1352374] [Lua] [HalfSwordZombieProbe]   Mercenaries for Hire = TMap: 000001EAEF117C48
+[07:21:19.1352697] [Lua] [HalfSwordZombieProbe]   total returned = 1
+[07:21:19.1421935] [Lua] [HalfSwordZombieProbe] Save File object = SG_GameProgress_C /Engine/Transient.SG_GameProgress_C_2147476722
+[07:21:19.1423812] [Lua] [HalfSwordZombieProbe]   Dead Opponents count = 36; value = TArray: 000001EA4B81CF48
+[07:21:19.1424306] [Lua] [HalfSwordZombieProbe]   Hired Characters count = 2; value = TMap: 000001EAEF116DA8
+[07:21:19.1424742] [Lua] [HalfSwordZombieProbe]   Mercenaries for Hire count = 5; value = TMap: 000001EAEF1177C8
+[07:21:19.1425177] [Lua] [HalfSwordZombieProbe]   Mercenaries Health count = 2; value = TMap: 000001EAEF117588
+[07:21:19.1425596] [Lua] [HalfSwordZombieProbe]   Mercenaries DayTimes count = 2; value = TMap: 000001EAEF116928
+[07:21:19.1427016] [Lua] [HalfSwordZombieProbe]   Assigned Mercenaries count = 0; value = TArray: 000001EA4B81C7D8
+[07:21:19.1428363] [Lua] [HalfSwordZombieProbe]   Expired Mercenaries count = 0; value = TArray: 000001EA4B81CD28
+[07:21:19.1428876] [Lua] [HalfSwordZombieProbe]   Spawned Mercenaries IDs count = ?; value = UObject: 000001EB260592A8
+[07:21:19.1429201] [Lua] [HalfSwordZombieProbe] FindAllOf('UI_Tavern_Mercenaries_C')
+[07:21:19.1498824] [Lua] [HalfSwordZombieProbe]   no instances found
+[07:21:19.1499281] [Lua] [HalfSwordZombieProbe] =========== END READ-ONLY DUMP ===========
+
+
+//dump 2
+
+[07:22:26.6113214] [Lua] [HalfSwordZombieProbe] ========== BEGIN READ-ONLY DUMP ==========
+[07:22:26.6113929] [Lua] [HalfSwordZombieProbe] FindAllOf('Willie_BP_Zombie_C')
+[07:22:26.6188897] [Lua] [HalfSwordZombieProbe]   [1] Willie_BP_Zombie_C /Game/Maps/Abyss/Abyss_Map_Open_EA.Abyss_Map_Open_EA:PersistentLevel.Willie_BP_Zombie_C_2147475881
+[07:22:26.6189683] [Lua] [HalfSwordZombieProbe]   Character ID = 0.0
+[07:22:26.6190094] [Lua] [HalfSwordZombieProbe]   Is Zombie? = true
+[07:22:26.6190483] [Lua] [HalfSwordZombieProbe]   Team Int = 2
+[07:22:26.6190945] [Lua] [HalfSwordZombieProbe]   Health = 0.0
+[07:22:26.6191360] [Lua] [HalfSwordZombieProbe]   AI In Combat = false
+[07:22:26.6191785] [Lua] [HalfSwordZombieProbe]   Character Passport = UserDefinedStruct /Game/Blueprints/Structure/Passports/Str_Passport_Character1.Str_Passport_Character1
+[07:22:26.6192200] [Lua] [HalfSwordZombieProbe]   [2] Willie_BP_Zombie_C /Game/Maps/Abyss/Abyss_Map_Open_EA.Abyss_Map_Open_EA:PersistentLevel.Willie_BP_Zombie_C_2147475745
+[07:22:26.6192609] [Lua] [HalfSwordZombieProbe]   Character ID = 0.0
+[07:22:26.6192962] [Lua] [HalfSwordZombieProbe]   Is Zombie? = true
+[07:22:26.6193319] [Lua] [HalfSwordZombieProbe]   Team Int = 2
+[07:22:26.6193693] [Lua] [HalfSwordZombieProbe]   Health = 100.0
+[07:22:26.6194050] [Lua] [HalfSwordZombieProbe]   AI In Combat = false
+[07:22:26.6194416] [Lua] [HalfSwordZombieProbe]   Character Passport = UserDefinedStruct /Game/Blueprints/Structure/Passports/Str_Passport_Character1.Str_Passport_Character1
+[07:22:26.6194748] [Lua] [HalfSwordZombieProbe]   total returned = 2
+[07:22:26.6195040] [Lua] [HalfSwordZombieProbe] FindAllOf('Willie_BP_C')
+[07:22:26.6267107] [Lua] [HalfSwordZombieProbe]   [1] Willie_BP_Zombie_C /Game/Maps/Abyss/Abyss_Map_Open_EA.Abyss_Map_Open_EA:PersistentLevel.Willie_BP_Zombie_C_2147475881
+[07:22:26.6267821] [Lua] [HalfSwordZombieProbe]   Character ID = 0.0
+[07:22:26.6268210] [Lua] [HalfSwordZombieProbe]   Is Zombie? = true
+[07:22:26.6268594] [Lua] [HalfSwordZombieProbe]   Team Int = 2
+[07:22:26.6268970] [Lua] [HalfSwordZombieProbe]   Health = 0.0
+[07:22:26.6269343] [Lua] [HalfSwordZombieProbe]   AI In Combat = false
+[07:22:26.6269773] [Lua] [HalfSwordZombieProbe]   Character Passport = UserDefinedStruct /Game/Blueprints/Structure/Passports/Str_Passport_Character1.Str_Passport_Character1
+[07:22:26.6270179] [Lua] [HalfSwordZombieProbe]   [2] Willie_BP_Zombie_C /Game/Maps/Abyss/Abyss_Map_Open_EA.Abyss_Map_Open_EA:PersistentLevel.Willie_BP_Zombie_C_2147475745
+[07:22:26.6270583] [Lua] [HalfSwordZombieProbe]   Character ID = 0.0
+[07:22:26.6270943] [Lua] [HalfSwordZombieProbe]   Is Zombie? = true
+[07:22:26.6271301] [Lua] [HalfSwordZombieProbe]   Team Int = 2
+[07:22:26.6271672] [Lua] [HalfSwordZombieProbe]   Health = 100.0
+[07:22:26.6272023] [Lua] [HalfSwordZombieProbe]   AI In Combat = false
+[07:22:26.6272392] [Lua] [HalfSwordZombieProbe]   Character Passport = UserDefinedStruct /Game/Blueprints/Structure/Passports/Str_Passport_Character1.Str_Passport_Character1
+[07:22:26.6272780] [Lua] [HalfSwordZombieProbe]   [3] Willie_BP_C /Game/Maps/Abyss/Abyss_Map_Open_EA.Abyss_Map_Open_EA:PersistentLevel.Willie_BP_C_2147476063
+[07:22:26.6273223] [Lua] [HalfSwordZombieProbe]   Character ID = 0.0
+[07:22:26.6273608] [Lua] [HalfSwordZombieProbe]   Is Zombie? = false
+[07:22:26.6273977] [Lua] [HalfSwordZombieProbe]   Team Int = 0
+[07:22:26.6274341] [Lua] [HalfSwordZombieProbe]   Health = 100.0
+[07:22:26.6274696] [Lua] [HalfSwordZombieProbe]   AI In Combat = false
+[07:22:26.6275069] [Lua] [HalfSwordZombieProbe]   Character Passport = UserDefinedStruct /Game/Blueprints/Structure/Passports/Str_Passport_Character1.Str_Passport_Character1
+[07:22:26.6275400] [Lua] [HalfSwordZombieProbe]   total returned = 3
+[07:22:26.6275695] [Lua] [HalfSwordZombieProbe] FindAllOf('AI_BP_C')
+[07:22:26.6343362] [Lua] [HalfSwordZombieProbe]   [1] AI_BP_C /Game/Maps/Abyss/Abyss_Map_Open_EA.Abyss_Map_Open_EA:PersistentLevel.AI_BP_C_2147475736
+[07:22:26.6350492] [Lua] [HalfSwordZombieProbe]   Abyss = false
+[07:22:26.6350939] [Lua] [HalfSwordZombieProbe]   Is Zombie? = true
+[07:22:26.6351346] [Lua] [HalfSwordZombieProbe]   Team Int = 2
+[07:22:26.6351807] [Lua] [HalfSwordZombieProbe]   Target Found = true
+[07:22:26.6353590] [Lua] [HalfSwordZombieProbe]   Allies = TArray: 000001EA4BD56B08
+[07:22:26.6355090] [Lua] [HalfSwordZombieProbe]   Target Candidates = TArray: 000001EA4BD58F28
+[07:22:26.6355479] [Lua] [HalfSwordZombieProbe]   [2] AI_BP_C /Game/Maps/Abyss/Abyss_Map_Open_EA.Abyss_Map_Open_EA:PersistentLevel.AI_BP_C_2147475872
+[07:22:26.6355891] [Lua] [HalfSwordZombieProbe]   Abyss = false
+[07:22:26.6357196] [Lua] [HalfSwordZombieProbe]   Is Zombie? = true
+[07:22:26.6357566] [Lua] [HalfSwordZombieProbe]   Team Int = 2
+[07:22:26.6357920] [Lua] [HalfSwordZombieProbe]   Target Found = true
+[07:22:26.6359412] [Lua] [HalfSwordZombieProbe]   Allies = TArray: 000001EA4BD58598
+[07:22:26.6360862] [Lua] [HalfSwordZombieProbe]   Target Candidates = TArray: 000001EA4BD56D28
+[07:22:26.6361502] [Lua] [HalfSwordZombieProbe]   [3] AI_BP_C /Game/Maps/Abyss/Abyss_Map_Open_EA.Abyss_Map_Open_EA:PersistentLevel.AI_BP_C_2147476054
+[07:22:26.6361906] [Lua] [HalfSwordZombieProbe]   Abyss = false
+[07:22:26.6362260] [Lua] [HalfSwordZombieProbe]   Is Zombie? = false
+[07:22:26.6362619] [Lua] [HalfSwordZombieProbe]   Team Int = 0
+[07:22:26.6362970] [Lua] [HalfSwordZombieProbe]   Target Found = false
+[07:22:26.6364429] [Lua] [HalfSwordZombieProbe]   Allies = TArray: 000001EA4BD587B8
+[07:22:26.6365896] [Lua] [HalfSwordZombieProbe]   Target Candidates = TArray: 000001EA4BD588C8
+[07:22:26.6366210] [Lua] [HalfSwordZombieProbe]   total returned = 3
+[07:22:26.6366510] [Lua] [HalfSwordZombieProbe] FindAllOf('BP_SpawnerPoint_Willies_C')
+[07:22:26.6433403] [Lua] [HalfSwordZombieProbe]   no instances found
+[07:22:26.6433846] [Lua] [HalfSwordZombieProbe] FindAllOf('BP_HalfSwordGameMode_C')
+[07:22:26.6500051] [Lua] [HalfSwordZombieProbe]   [1] BP_HalfSwordGameMode_C /Game/Maps/Abyss/Abyss_Map_Open_EA.Abyss_Map_Open_EA:PersistentLevel.BP_HalfSwordGameMode_C_2147476089
+[07:22:26.6500735] [Lua] [HalfSwordZombieProbe]   Enemy Count = 0
+[07:22:26.6501118] [Lua] [HalfSwordZombieProbe]   Match Won = false
+[07:22:26.6501498] [Lua] [HalfSwordZombieProbe]   Player DED = false
+[07:22:26.6501868] [Lua] [HalfSwordZombieProbe]   All Enemies Dead = false
+[07:22:26.6502237] [Lua] [HalfSwordZombieProbe]   Player Team = 0
+[07:22:26.6502606] [Lua] [HalfSwordZombieProbe]   Current Rounds Amount = 0
+[07:22:26.6502980] [Lua] [HalfSwordZombieProbe]   Rounds Won = 0
+[07:22:26.6503353] [Lua] [HalfSwordZombieProbe]   Current Reward = 0
+[07:22:26.6503659] [Lua] [HalfSwordZombieProbe]   total returned = 1
+[07:22:26.6503955] [Lua] [HalfSwordZombieProbe] FindAllOf('BP_LevelManager_C')
+[07:22:26.6569478] [Lua] [HalfSwordZombieProbe]   no instances found
+[07:22:26.6570080] [Lua] [HalfSwordZombieProbe] FindAllOf('BP_GameManager_C')
+[07:22:26.6635340] [Lua] [HalfSwordZombieProbe]   no instances found
+[07:22:26.6635762] [Lua] [HalfSwordZombieProbe] FindAllOf('BP_CombatEvent_Master_C')
+[07:22:26.6701984] [Lua] [HalfSwordZombieProbe]   no instances found
+[07:22:26.6702435] [Lua] [HalfSwordZombieProbe] FindAllOf('GI_Settings_C')
+[07:22:26.6768543] [Lua] [HalfSwordZombieProbe]   [1] GI_Settings_C /Engine/Transient.GameEngine_2147482618:GI_Settings_C_2147482573
+[07:22:26.6769241] [Lua] [HalfSwordZombieProbe]   Current Game Mode Enum = 5
+[07:22:26.6769636] [Lua] [HalfSwordZombieProbe]   Current Play Mode = 0
+[07:22:26.6770028] [Lua] [HalfSwordZombieProbe]   Abyss Score = 0
+[07:22:26.6770408] [Lua] [HalfSwordZombieProbe]   Mercenaries Opening = false
+[07:22:26.6770783] [Lua] [HalfSwordZombieProbe]   Combatants Amount = 0
+[07:22:26.6772858] [Lua] [HalfSwordZombieProbe]   Available Combatants = TArray: 000001EA4BD57AF8
+[07:22:26.6774374] [Lua] [HalfSwordZombieProbe]   Spawned Combatants = TArray: 000001EA4BD56E38
+[07:22:26.6775829] [Lua] [HalfSwordZombieProbe]   Spawned Mercenaries IDs = TArray: 000001EA4BD578D8
+[07:22:26.6777271] [Lua] [HalfSwordZombieProbe]   Available Mercenaries IDs = TArray: 000001EA4BD56F48
+[07:22:26.6778714] [Lua] [HalfSwordZombieProbe]   Assigned Mercenaries IDs = TArray: 000001EA4BD58BF8
+[07:22:26.6780155] [Lua] [HalfSwordZombieProbe]   Dead Opponents = TArray: 000001EA4BD57058
+[07:22:26.6780589] [Lua] [HalfSwordZombieProbe]   Hired Characters = TMap: 000001EA53421748
+[07:22:26.6780975] [Lua] [HalfSwordZombieProbe]   Mercenaries for Hire = TMap: 000001EA53423368
+[07:22:26.6781288] [Lua] [HalfSwordZombieProbe]   total returned = 1
+[07:22:26.6848026] [Lua] [HalfSwordZombieProbe] Save File object = SG_GameProgress_C /Engine/Transient.SG_GameProgress_C_2147476722
+[07:22:26.6849824] [Lua] [HalfSwordZombieProbe]   Dead Opponents count = 36; value = TArray: 000001EA4BD57388
+[07:22:26.6850313] [Lua] [HalfSwordZombieProbe]   Hired Characters count = 2; value = TMap: 000001EA53421088
+[07:22:26.6850742] [Lua] [HalfSwordZombieProbe]   Mercenaries for Hire count = 5; value = TMap: 000001EA534235A8
+[07:22:26.6851331] [Lua] [HalfSwordZombieProbe]   Mercenaries Health count = 2; value = TMap: 000001EA53420C08
+[07:22:26.6851768] [Lua] [HalfSwordZombieProbe]   Mercenaries DayTimes count = 2; value = TMap: 000001EA534236C8
+[07:22:26.6853145] [Lua] [HalfSwordZombieProbe]   Assigned Mercenaries count = 0; value = TArray: 000001EA4BD589D8
+[07:22:26.6854477] [Lua] [HalfSwordZombieProbe]   Expired Mercenaries count = 0; value = TArray: 000001EA0EF158A8
+[07:22:26.6854995] [Lua] [HalfSwordZombieProbe]   Spawned Mercenaries IDs count = ?; value = UObject: 000001EA4689F738
+[07:22:26.6855321] [Lua] [HalfSwordZombieProbe] FindAllOf('UI_Tavern_Mercenaries_C')
+[07:22:26.6921254] [Lua] [HalfSwordZombieProbe]   no instances found
+[07:22:26.6921682] [Lua] [HalfSwordZombieProbe] =========== END READ-ONLY DUMP ===========
+
+
+//dump 3
+
+[07:23:52.5433807] [Lua] [HalfSwordZombieProbe] ========== BEGIN READ-ONLY DUMP ==========
+[07:23:52.5436177] [Lua] [HalfSwordZombieProbe] FindAllOf('Willie_BP_Zombie_C')
+[07:23:52.5511739] [Lua] [HalfSwordZombieProbe]   [1] Willie_BP_Zombie_C /Game/Maps/Abyss/Abyss_Map_Open_EA.Abyss_Map_Open_EA:PersistentLevel.Willie_BP_Zombie_C_2147475546
+[07:23:52.5512535] [Lua] [HalfSwordZombieProbe]   Character ID = 0.0
+[07:23:52.5512955] [Lua] [HalfSwordZombieProbe]   Is Zombie? = true
+[07:23:52.5513349] [Lua] [HalfSwordZombieProbe]   Team Int = 2
+[07:23:52.5513740] [Lua] [HalfSwordZombieProbe]   Health = 100.0
+[07:23:52.5514111] [Lua] [HalfSwordZombieProbe]   AI In Combat = false
+[07:23:52.5514530] [Lua] [HalfSwordZombieProbe]   Character Passport = UserDefinedStruct /Game/Blueprints/Structure/Passports/Str_Passport_Character1.Str_Passport_Character1
+[07:23:52.5514925] [Lua] [HalfSwordZombieProbe]   [2] Willie_BP_Zombie_C /Game/Maps/Abyss/Abyss_Map_Open_EA.Abyss_Map_Open_EA:PersistentLevel.Willie_BP_Zombie_C_2147475745
+[07:23:52.5515331] [Lua] [HalfSwordZombieProbe]   Character ID = 0.0
+[07:23:52.5515691] [Lua] [HalfSwordZombieProbe]   Is Zombie? = true
+[07:23:52.5516049] [Lua] [HalfSwordZombieProbe]   Team Int = 2
+[07:23:52.5516415] [Lua] [HalfSwordZombieProbe]   Health = 0.0
+[07:23:52.5516772] [Lua] [HalfSwordZombieProbe]   AI In Combat = false
+[07:23:52.5517142] [Lua] [HalfSwordZombieProbe]   Character Passport = UserDefinedStruct /Game/Blueprints/Structure/Passports/Str_Passport_Character1.Str_Passport_Character1
+[07:23:52.5517484] [Lua] [HalfSwordZombieProbe]   total returned = 2
+[07:23:52.5517866] [Lua] [HalfSwordZombieProbe] FindAllOf('Willie_BP_C')
+[07:23:52.5587408] [Lua] [HalfSwordZombieProbe]   [1] Willie_BP_Zombie_C /Game/Maps/Abyss/Abyss_Map_Open_EA.Abyss_Map_Open_EA:PersistentLevel.Willie_BP_Zombie_C_2147475546
+[07:23:52.5588131] [Lua] [HalfSwordZombieProbe]   Character ID = 0.0
+[07:23:52.5588527] [Lua] [HalfSwordZombieProbe]   Is Zombie? = true
+[07:23:52.5588913] [Lua] [HalfSwordZombieProbe]   Team Int = 2
+[07:23:52.5589400] [Lua] [HalfSwordZombieProbe]   Health = 100.0
+[07:23:52.5589794] [Lua] [HalfSwordZombieProbe]   AI In Combat = false
+[07:23:52.5590203] [Lua] [HalfSwordZombieProbe]   Character Passport = UserDefinedStruct /Game/Blueprints/Structure/Passports/Str_Passport_Character1.Str_Passport_Character1
+[07:23:52.5590595] [Lua] [HalfSwordZombieProbe]   [2] Willie_BP_Zombie_C /Game/Maps/Abyss/Abyss_Map_Open_EA.Abyss_Map_Open_EA:PersistentLevel.Willie_BP_Zombie_C_2147475745
+[07:23:52.5591018] [Lua] [HalfSwordZombieProbe]   Character ID = 0.0
+[07:23:52.5591380] [Lua] [HalfSwordZombieProbe]   Is Zombie? = true
+[07:23:52.5591743] [Lua] [HalfSwordZombieProbe]   Team Int = 2
+[07:23:52.5592107] [Lua] [HalfSwordZombieProbe]   Health = 0.0
+[07:23:52.5592475] [Lua] [HalfSwordZombieProbe]   AI In Combat = false
+[07:23:52.5592845] [Lua] [HalfSwordZombieProbe]   Character Passport = UserDefinedStruct /Game/Blueprints/Structure/Passports/Str_Passport_Character1.Str_Passport_Character1
+[07:23:52.5593244] [Lua] [HalfSwordZombieProbe]   [3] Willie_BP_C /Game/Maps/Abyss/Abyss_Map_Open_EA.Abyss_Map_Open_EA:PersistentLevel.Willie_BP_C_2147476063
+[07:23:52.5593646] [Lua] [HalfSwordZombieProbe]   Character ID = 0.0
+[07:23:52.5594004] [Lua] [HalfSwordZombieProbe]   Is Zombie? = false
+[07:23:52.5594379] [Lua] [HalfSwordZombieProbe]   Team Int = 0
+[07:23:52.5594764] [Lua] [HalfSwordZombieProbe]   Health = 100.0
+[07:23:52.5595124] [Lua] [HalfSwordZombieProbe]   AI In Combat = false
+[07:23:52.5595493] [Lua] [HalfSwordZombieProbe]   Character Passport = UserDefinedStruct /Game/Blueprints/Structure/Passports/Str_Passport_Character1.Str_Passport_Character1
+[07:23:52.5595826] [Lua] [HalfSwordZombieProbe]   total returned = 3
+[07:23:52.5596121] [Lua] [HalfSwordZombieProbe] FindAllOf('AI_BP_C')
+[07:23:52.5667340] [Lua] [HalfSwordZombieProbe]   [1] AI_BP_C /Game/Maps/Abyss/Abyss_Map_Open_EA.Abyss_Map_Open_EA:PersistentLevel.AI_BP_C_2147475537
+[07:23:52.5676081] [Lua] [HalfSwordZombieProbe]   Abyss = false
+[07:23:52.5676499] [Lua] [HalfSwordZombieProbe]   Is Zombie? = true
+[07:23:52.5676896] [Lua] [HalfSwordZombieProbe]   Team Int = 2
+[07:23:52.5677261] [Lua] [HalfSwordZombieProbe]   Target Found = true
+[07:23:52.5679480] [Lua] [HalfSwordZombieProbe]   Allies = TArray: 000001EA5294FDA8
+[07:23:52.5680998] [Lua] [HalfSwordZombieProbe]   Target Candidates = TArray: 000001EA5294F308
+[07:23:52.5681392] [Lua] [HalfSwordZombieProbe]   [2] AI_BP_C /Game/Maps/Abyss/Abyss_Map_Open_EA.Abyss_Map_Open_EA:PersistentLevel.AI_BP_C_2147475736
+[07:23:52.5681791] [Lua] [HalfSwordZombieProbe]   Abyss = false
+[07:23:52.5682150] [Lua] [HalfSwordZombieProbe]   Is Zombie? = true
+[07:23:52.5682511] [Lua] [HalfSwordZombieProbe]   Team Int = 2
+[07:23:52.5682866] [Lua] [HalfSwordZombieProbe]   Target Found = true
+[07:23:52.5684338] [Lua] [HalfSwordZombieProbe]   Allies = TArray: 000001EA5294F528
+[07:23:52.5685803] [Lua] [HalfSwordZombieProbe]   Target Candidates = TArray: 000001EA5294F1F8
+[07:23:52.5686170] [Lua] [HalfSwordZombieProbe]   [3] AI_BP_C /Game/Maps/Abyss/Abyss_Map_Open_EA.Abyss_Map_Open_EA:PersistentLevel.AI_BP_C_2147476054
+[07:23:52.5686558] [Lua] [HalfSwordZombieProbe]   Abyss = false
+[07:23:52.5686981] [Lua] [HalfSwordZombieProbe]   Is Zombie? = false
+[07:23:52.5687494] [Lua] [HalfSwordZombieProbe]   Team Int = 0
+[07:23:52.5687853] [Lua] [HalfSwordZombieProbe]   Target Found = false
+[07:23:52.5689321] [Lua] [HalfSwordZombieProbe]   Allies = TArray: 000001EA5294EEC8
+[07:23:52.5690799] [Lua] [HalfSwordZombieProbe]   Target Candidates = TArray: 000001EA5294E208
+[07:23:52.5691119] [Lua] [HalfSwordZombieProbe]   total returned = 3
+[07:23:52.5691422] [Lua] [HalfSwordZombieProbe] FindAllOf('BP_SpawnerPoint_Willies_C')
+[07:23:52.5758945] [Lua] [HalfSwordZombieProbe]   no instances found
+[07:23:52.5759386] [Lua] [HalfSwordZombieProbe] FindAllOf('BP_HalfSwordGameMode_C')
+[07:23:52.5826906] [Lua] [HalfSwordZombieProbe]   [1] BP_HalfSwordGameMode_C /Game/Maps/Abyss/Abyss_Map_Open_EA.Abyss_Map_Open_EA:PersistentLevel.BP_HalfSwordGameMode_C_2147476089
+[07:23:52.5827632] [Lua] [HalfSwordZombieProbe]   Enemy Count = 0
+[07:23:52.5828035] [Lua] [HalfSwordZombieProbe]   Match Won = false
+[07:23:52.5828410] [Lua] [HalfSwordZombieProbe]   Player DED = false
+[07:23:52.5828786] [Lua] [HalfSwordZombieProbe]   All Enemies Dead = false
+[07:23:52.5829162] [Lua] [HalfSwordZombieProbe]   Player Team = 0
+[07:23:52.5829542] [Lua] [HalfSwordZombieProbe]   Current Rounds Amount = 0
+[07:23:52.5829917] [Lua] [HalfSwordZombieProbe]   Rounds Won = 0
+[07:23:52.5830285] [Lua] [HalfSwordZombieProbe]   Current Reward = 0
+[07:23:52.5830615] [Lua] [HalfSwordZombieProbe]   total returned = 1
+[07:23:52.5830913] [Lua] [HalfSwordZombieProbe] FindAllOf('BP_LevelManager_C')
+[07:23:52.5897632] [Lua] [HalfSwordZombieProbe]   no instances found
+[07:23:52.5898068] [Lua] [HalfSwordZombieProbe] FindAllOf('BP_GameManager_C')
+[07:23:52.5963945] [Lua] [HalfSwordZombieProbe]   no instances found
+[07:23:52.5964398] [Lua] [HalfSwordZombieProbe] FindAllOf('BP_CombatEvent_Master_C')
+[07:23:52.6029572] [Lua] [HalfSwordZombieProbe]   no instances found
+[07:23:52.6030015] [Lua] [HalfSwordZombieProbe] FindAllOf('GI_Settings_C')
+[07:23:52.6098157] [Lua] [HalfSwordZombieProbe]   [1] GI_Settings_C /Engine/Transient.GameEngine_2147482618:GI_Settings_C_2147482573
+[07:23:52.6098877] [Lua] [HalfSwordZombieProbe]   Current Game Mode Enum = 5
+[07:23:52.6099278] [Lua] [HalfSwordZombieProbe]   Current Play Mode = 0
+[07:23:52.6099673] [Lua] [HalfSwordZombieProbe]   Abyss Score = 0
+[07:23:52.6100058] [Lua] [HalfSwordZombieProbe]   Mercenaries Opening = false
+[07:23:52.6100432] [Lua] [HalfSwordZombieProbe]   Combatants Amount = 0
+[07:23:52.6102161] [Lua] [HalfSwordZombieProbe]   Available Combatants = TArray: 000001EA52950A68
+[07:23:52.6103877] [Lua] [HalfSwordZombieProbe]   Spawned Combatants = TArray: 000001EA5294F418
+[07:23:52.6105328] [Lua] [HalfSwordZombieProbe]   Spawned Mercenaries IDs = TArray: 000001EA5294F638
+[07:23:52.6106792] [Lua] [HalfSwordZombieProbe]   Available Mercenaries IDs = TArray: 000001EA529511D8
+[07:23:52.6108253] [Lua] [HalfSwordZombieProbe]   Assigned Mercenaries IDs = TArray: 000001EA52950738
+[07:23:52.6109692] [Lua] [HalfSwordZombieProbe]   Dead Opponents = TArray: 000001EA52950B78
+[07:23:52.6110125] [Lua] [HalfSwordZombieProbe]   Hired Characters = TMap: 000001EAF25BDA88
+[07:23:52.6110515] [Lua] [HalfSwordZombieProbe]   Mercenaries for Hire = TMap: 000001EAF25BC528
+[07:23:52.6110915] [Lua] [HalfSwordZombieProbe]   total returned = 1
+[07:23:52.6179041] [Lua] [HalfSwordZombieProbe] Save File object = SG_GameProgress_C /Engine/Transient.SG_GameProgress_C_2147476722
+[07:23:52.6180921] [Lua] [HalfSwordZombieProbe]   Dead Opponents count = 36; value = TArray: 000001EA52950FB8
+[07:23:52.6181500] [Lua] [HalfSwordZombieProbe]   Hired Characters count = 2; value = TMap: 000001EAF25BCF48
+[07:23:52.6181993] [Lua] [HalfSwordZombieProbe]   Mercenaries for Hire count = 5; value = TMap: 000001EAF25BC648
+[07:23:52.6182422] [Lua] [HalfSwordZombieProbe]   Mercenaries Health count = 2; value = TMap: 000001EAF25BD728
+[07:23:52.6183463] [Lua] [HalfSwordZombieProbe]   Mercenaries DayTimes count = 2; value = TMap: 000001EAF25BDF08
+[07:23:52.6184950] [Lua] [HalfSwordZombieProbe]   Assigned Mercenaries count = 0; value = TArray: 000001EA5294F748
+[07:23:52.6186324] [Lua] [HalfSwordZombieProbe]   Expired Mercenaries count = 0; value = TArray: 000001EA5294E318
+[07:23:52.6186862] [Lua] [HalfSwordZombieProbe]   Spawned Mercenaries IDs count = ?; value = UObject: 000001EAD8DC6A18
+[07:23:52.6187194] [Lua] [HalfSwordZombieProbe] FindAllOf('UI_Tavern_Mercenaries_C')
+[07:23:52.6254284] [Lua] [HalfSwordZombieProbe]   no instances found
+[07:23:52.6254712] [Lua] [HalfSwordZombieProbe] =========== END READ-ONLY DUMP ===========

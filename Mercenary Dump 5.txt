@@ -1,0 +1,152 @@
+[20:46:52.0907527] [Lua] ========== MERCENARY STATE BEGIN ==========
+[20:46:52.0974284] [Lua] [HSProbe] GI=GI_Settings_C /Engine/Transient.GameEngine_2147482618:GI_Settings_C_2147482573
+[20:46:52.0975151] [Lua] [HSProbe] ARRAY Dead Opponents count=27
+[20:46:52.0983988] [Lua] [HSProbe] Dead Opponents index=1 ID=1986846507 Name=Urban ActorClass=BlueprintGeneratedClass /Game/Character/Blueprints/Willie_BP.Willie_BP_C
+[20:46:52.0992017] [Lua] [HSProbe] Dead Opponents index=2 ID=1919064939 Name=Wigand ActorClass=BlueprintGeneratedClass /Game/Character/Blueprints/Willie_BP.Willie_BP_C
+[20:46:52.1000592] [Lua] [HSProbe] Dead Opponents index=3 ID=1177495658 Name=Conrad ActorClass=BlueprintGeneratedClass /Game/Character/Blueprints/Willie_BP.Willie_BP_C
+[20:46:52.1007996] [Lua] [HSProbe] Dead Opponents index=4 ID=1142307803 Name=Ludwig ActorClass=BlueprintGeneratedClass /Game/Character/Blueprints/Willie_BP.Willie_BP_C
+[20:46:52.1015642] [Lua] [HSProbe] Dead Opponents index=5 ID=1944608927 Name=Laurenz ActorClass=BlueprintGeneratedClass /Game/Character/Blueprints/Willie_BP.Willie_BP_C
+[20:46:52.1023232] [Lua] [HSProbe] Dead Opponents index=6 ID=1875026703 Name=Magnus ActorClass=BlueprintGeneratedClass /Game/Character/Blueprints/Willie_BP.Willie_BP_C
+[20:46:52.1030858] [Lua] [HSProbe] Dead Opponents index=7 ID=1889156759 Name=Randolf ActorClass=BlueprintGeneratedClass /Game/Character/Blueprints/Willie_BP.Willie_BP_C
+[20:46:52.1038344] [Lua] [HSProbe] Dead Opponents index=8 ID=1157567069 Name=Arnold ActorClass=BlueprintGeneratedClass /Game/Character/Blueprints/Willie_BP.Willie_BP_C
+[20:46:52.1046427] [Lua] [HSProbe] Dead Opponents index=9 ID=180416270 Name=Sigismund ActorClass=BlueprintGeneratedClass /Game/Character/Blueprints/Willie_BP.Willie_BP_C
+[20:46:52.1053835] [Lua] [HSProbe] Dead Opponents index=10 ID=1672872066 Name=Reinhold ActorClass=BlueprintGeneratedClass /Game/Character/Blueprints/Willie_BP.Willie_BP_C
+[20:46:52.1061295] [Lua] [HSProbe] Dead Opponents index=11 ID=1499618530 Name=Franz ActorClass=BlueprintGeneratedClass /Game/Character/Blueprints/Willie_BP.Willie_BP_C
+[20:46:52.1068569] [Lua] [HSProbe] Dead Opponents index=12 ID=1199865714 Name=Albrecht ActorClass=BlueprintGeneratedClass /Game/Character/Blueprints/Willie_BP.Willie_BP_C
+[20:46:52.1076272] [Lua] [HSProbe] Dead Opponents index=13 ID=1721030295 Name=Kaspar ActorClass=BlueprintGeneratedClass /Game/Character/Blueprints/Willie_BP.Willie_BP_C
+[20:46:52.1084166] [Lua] [HSProbe] Dead Opponents index=14 ID=173244423 Name=Johann ActorClass=BlueprintGeneratedClass /Game/Character/Blueprints/Willie_BP.Willie_BP_C
+[20:46:52.1092632] [Lua] [HSProbe] Dead Opponents index=15 ID=1612720132 Name=Wigand ActorClass=BlueprintGeneratedClass /Game/Character/Blueprints/Willie_BP.Willie_BP_C
+[20:46:52.1107404] [Lua] [HSProbe] Dead Opponents index=16 ID=1856624067 Name=Heinrich ActorClass=BlueprintGeneratedClass /Game/Character/Blueprints/Willie_BP.Willie_BP_C
+[20:46:52.1116669] [Lua] [HSProbe] Dead Opponents index=17 ID=1188146606 Name=Florentin ActorClass=BlueprintGeneratedClass /Game/Character/Blueprints/Willie_BP.Willie_BP_C
+[20:46:52.1124174] [Lua] [HSProbe] Dead Opponents index=18 ID=1286324650 Name=Sigismund ActorClass=BlueprintGeneratedClass /Game/Character/Blueprints/Willie_BP.Willie_BP_C
+[20:46:52.1140757] [Lua] [HSProbe] Dead Opponents index=19 ID=1181890309 Name=Gregor ActorClass=BlueprintGeneratedClass /Game/Character/Blueprints/Willie_BP.Willie_BP_C
+[20:46:52.1149663] [Lua] [HSProbe] Dead Opponents index=20 ID=1591021478 Name=Reinhard ActorClass=BlueprintGeneratedClass /Game/Character/Blueprints/Willie_BP.Willie_BP_C
+[20:46:52.1160643] [Lua] [HSProbe] Dead Opponents index=21 ID=1534653783 Name=Valentin ActorClass=BlueprintGeneratedClass /Game/Character/Blueprints/Willie_BP.Willie_BP_C
+[20:46:52.1170603] [Lua] [HSProbe] Dead Opponents index=22 ID=1267830431 Name=Wolfram ActorClass=BlueprintGeneratedClass /Game/Character/Blueprints/Willie_BP.Willie_BP_C
+[20:46:52.1177962] [Lua] [HSProbe] Dead Opponents index=23 ID=1640858173 Name=Veit ActorClass=BlueprintGeneratedClass /Game/Character/Blueprints/Willie_BP.Willie_BP_C
+[20:46:52.1185850] [Lua] [HSProbe] Dead Opponents index=24 ID=1679616690 Name=Simon ActorClass=BlueprintGeneratedClass /Game/Character/Blueprints/Willie_BP.Willie_BP_C
+[20:46:52.1193187] [Lua] [HSProbe] Dead Opponents index=25 ID=1794518888 Name=Zacharias ActorClass=BlueprintGeneratedClass /Game/Character/Blueprints/Willie_BP.Willie_BP_C
+[20:46:52.1200564] [Lua] [HSProbe] Dead Opponents index=26 ID=1556352437 Name=Dietmar ActorClass=BlueprintGeneratedClass /Game/Character/Blueprints/Willie_BP.Willie_BP_C
+[20:46:52.1207831] [Lua] [HSProbe] Dead Opponents index=27 ID=1289101839 Name=Reinhold ActorClass=BlueprintGeneratedClass /Game/Character/Blueprints/Willie_BP.Willie_BP_C
+[20:46:52.1208427] [Lua] [HSProbe] MAP Hired Characters count=3
+[20:46:52.1216197] [Lua] [HSProbe] Hired Characters key=1196783349 index=- ID=1196783349 Name=Eckhart ActorClass=BlueprintGeneratedClass /Game/Character/Blueprints/Willie_BP.Willie_BP_C
+[20:46:52.1224060] [Lua] [HSProbe] Hired Characters key=1139072850 index=- ID=1139072850 Name=Erasmus ActorClass=BlueprintGeneratedClass /Game/Character/Blueprints/Willie_BP.Willie_BP_C
+[20:46:52.1231440] [Lua] [HSProbe] Hired Characters key=1268654436 index=- ID=1268654436 Name=Anselm ActorClass=BlueprintGeneratedClass /Game/Character/Blueprints/Willie_BP.Willie_BP_C
+[20:46:52.1240310] [Lua] [HSProbe] MAP Mercenaries for Hire count=5
+[20:46:52.1249096] [Lua] [HSProbe] Mercenaries for Hire key=1241981268 index=- ID=1241981268 Name=Joerg ActorClass=BlueprintGeneratedClass /Game/Character/Blueprints/Willie_BP.Willie_BP_C
+[20:46:52.1257299] [Lua] [HSProbe] Mercenaries for Hire key=1523972273 index=- ID=1523972273 Name=Oswald ActorClass=BlueprintGeneratedClass /Game/Character/Blueprints/Willie_BP.Willie_BP_C
+[20:46:52.1265242] [Lua] [HSProbe] Mercenaries for Hire key=1746269107 index=- ID=1746269107 Name=Daniel ActorClass=BlueprintGeneratedClass /Game/Character/Blueprints/Willie_BP.Willie_BP_C
+[20:46:52.1273995] [Lua] [HSProbe] Mercenaries for Hire key=1182775348 index=- ID=1182775348 Name=lambert ActorClass=BlueprintGeneratedClass /Game/Character/Blueprints/Willie_BP.Willie_BP_C
+[20:46:52.1281904] [Lua] [HSProbe] Mercenaries for Hire key=1796777248 index=- ID=1796777248 Name=Daniel ActorClass=BlueprintGeneratedClass /Game/Character/Blueprints/Willie_BP.Willie_BP_C
+[20:46:52.1282420] [Lua] [HSProbe] MAP Mercenaries Health count=3
+[20:46:52.1282984] [Lua] [HSProbe] Mercenaries Health key=1196783349 value=UserDefinedStruct /Game/Blueprints/Structure/Character/Str_Character_Body_Condition.Str_Character_Body_Condition
+[20:46:52.1283657] [Lua] [HSProbe] Mercenaries Health[1196783349] HeadHealth=100.0
+[20:46:52.1284166] [Lua] [HSProbe] Mercenaries Health[1196783349] NeckHealth=100.0
+[20:46:52.1284667] [Lua] [HSProbe] Mercenaries Health[1196783349] ArmRHealth=100.0
+[20:46:52.1285187] [Lua] [HSProbe] Mercenaries Health[1196783349] ArmLHealth=100.0
+[20:46:52.1285699] [Lua] [HSProbe] Mercenaries Health[1196783349] BodyUpperHealth=100.0
+[20:46:52.1286212] [Lua] [HSProbe] Mercenaries Health[1196783349] BodyLowerHealth=100.0
+[20:46:52.1286727] [Lua] [HSProbe] Mercenaries Health[1196783349] LegRHealth=100.0
+[20:46:52.1287238] [Lua] [HSProbe] Mercenaries Health[1196783349] LegLHealth=100.0
+[20:46:52.1287798] [Lua] [HSProbe] Mercenaries Health key=1139072850 value=UserDefinedStruct /Game/Blueprints/Structure/Character/Str_Character_Body_Condition.Str_Character_Body_Condition
+[20:46:52.1288535] [Lua] [HSProbe] Mercenaries Health[1139072850] HeadHealth=100.0
+[20:46:52.1289034] [Lua] [HSProbe] Mercenaries Health[1139072850] NeckHealth=100.0
+[20:46:52.1289552] [Lua] [HSProbe] Mercenaries Health[1139072850] ArmRHealth=100.0
+[20:46:52.1290045] [Lua] [HSProbe] Mercenaries Health[1139072850] ArmLHealth=100.0
+[20:46:52.1290530] [Lua] [HSProbe] Mercenaries Health[1139072850] BodyUpperHealth=100.0
+[20:46:52.1291027] [Lua] [HSProbe] Mercenaries Health[1139072850] BodyLowerHealth=100.0
+[20:46:52.1291520] [Lua] [HSProbe] Mercenaries Health[1139072850] LegRHealth=100.0
+[20:46:52.1292009] [Lua] [HSProbe] Mercenaries Health[1139072850] LegLHealth=100.0
+[20:46:52.1292534] [Lua] [HSProbe] Mercenaries Health key=1268654436 value=UserDefinedStruct /Game/Blueprints/Structure/Character/Str_Character_Body_Condition.Str_Character_Body_Condition
+[20:46:52.1293142] [Lua] [HSProbe] Mercenaries Health[1268654436] HeadHealth=100.0
+[20:46:52.1293638] [Lua] [HSProbe] Mercenaries Health[1268654436] NeckHealth=100.0
+[20:46:52.1294119] [Lua] [HSProbe] Mercenaries Health[1268654436] ArmRHealth=100.0
+[20:46:52.1294606] [Lua] [HSProbe] Mercenaries Health[1268654436] ArmLHealth=100.0
+[20:46:52.1295100] [Lua] [HSProbe] Mercenaries Health[1268654436] BodyUpperHealth=100.0
+[20:46:52.1295592] [Lua] [HSProbe] Mercenaries Health[1268654436] BodyLowerHealth=100.0
+[20:46:52.1296096] [Lua] [HSProbe] Mercenaries Health[1268654436] LegRHealth=100.0
+[20:46:52.1296578] [Lua] [HSProbe] Mercenaries Health[1268654436] LegLHealth=100.0
+[20:46:52.1296976] [Lua] [HSProbe] MAP Mercenaries DayTimes count=3
+[20:46:52.1297526] [Lua] [HSProbe] Mercenaries DayTimes key=1196783349 value=92
+[20:46:52.1298071] [Lua] [HSProbe] Mercenaries DayTimes key=1139072850 value=92
+[20:46:52.1299122] [Lua] [HSProbe] Mercenaries DayTimes key=1268654436 value=3
+[20:46:52.1299595] [Lua] [HSProbe] MAP Saved Mercenaries count=0
+[20:46:52.1300005] [Lua] [HSProbe] ARRAY Assigned Mercenaries IDs count=0
+[20:46:52.1300387] [Lua] [HSProbe] ARRAY Expired Mercenaries IDs count=0
+[20:46:52.1300760] [Lua] [HSProbe] ARRAY Available Mercenaries IDs count=0
+[20:46:52.1301138] [Lua] [HSProbe] ARRAY Spawned Mercenaries IDs count=0
+[20:46:52.1301516] [Lua] [HSProbe] ARRAY Wounded Mercenaries IDs count=0
+[20:46:52.1310021] [Lua] [HSProbe] SAVE=SG_GameProgress_C /Engine/Transient.SG_GameProgress_C_2147482260
+[20:46:52.1310404] [Lua] [HSProbe] ARRAY Dead Opponents count=27
+[20:46:52.1321406] [Lua] [HSProbe] Dead Opponents index=1 ID=1986846507 Name=Urban ActorClass=BlueprintGeneratedClass /Game/Character/Blueprints/Willie_BP.Willie_BP_C
+[20:46:52.1329367] [Lua] [HSProbe] Dead Opponents index=2 ID=1919064939 Name=Wigand ActorClass=BlueprintGeneratedClass /Game/Character/Blueprints/Willie_BP.Willie_BP_C
+[20:46:52.1336967] [Lua] [HSProbe] Dead Opponents index=3 ID=1177495658 Name=Conrad ActorClass=BlueprintGeneratedClass /Game/Character/Blueprints/Willie_BP.Willie_BP_C
+[20:46:52.1344518] [Lua] [HSProbe] Dead Opponents index=4 ID=1142307803 Name=Ludwig ActorClass=BlueprintGeneratedClass /Game/Character/Blueprints/Willie_BP.Willie_BP_C
+[20:46:52.1352743] [Lua] [HSProbe] Dead Opponents index=5 ID=1944608927 Name=Laurenz ActorClass=BlueprintGeneratedClass /Game/Character/Blueprints/Willie_BP.Willie_BP_C
+[20:46:52.1360252] [Lua] [HSProbe] Dead Opponents index=6 ID=1875026703 Name=Magnus ActorClass=BlueprintGeneratedClass /Game/Character/Blueprints/Willie_BP.Willie_BP_C
+[20:46:52.1368658] [Lua] [HSProbe] Dead Opponents index=7 ID=1889156759 Name=Randolf ActorClass=BlueprintGeneratedClass /Game/Character/Blueprints/Willie_BP.Willie_BP_C
+[20:46:52.1376424] [Lua] [HSProbe] Dead Opponents index=8 ID=1157567069 Name=Arnold ActorClass=BlueprintGeneratedClass /Game/Character/Blueprints/Willie_BP.Willie_BP_C
+[20:46:52.1389561] [Lua] [HSProbe] Dead Opponents index=9 ID=180416270 Name=Sigismund ActorClass=BlueprintGeneratedClass /Game/Character/Blueprints/Willie_BP.Willie_BP_C
+[20:46:52.1397232] [Lua] [HSProbe] Dead Opponents index=10 ID=1672872066 Name=Reinhold ActorClass=BlueprintGeneratedClass /Game/Character/Blueprints/Willie_BP.Willie_BP_C
+[20:46:52.1404571] [Lua] [HSProbe] Dead Opponents index=11 ID=1499618530 Name=Franz ActorClass=BlueprintGeneratedClass /Game/Character/Blueprints/Willie_BP.Willie_BP_C
+[20:46:52.1412814] [Lua] [HSProbe] Dead Opponents index=12 ID=1199865714 Name=Albrecht ActorClass=BlueprintGeneratedClass /Game/Character/Blueprints/Willie_BP.Willie_BP_C
+[20:46:52.1420252] [Lua] [HSProbe] Dead Opponents index=13 ID=1721030295 Name=Kaspar ActorClass=BlueprintGeneratedClass /Game/Character/Blueprints/Willie_BP.Willie_BP_C
+[20:46:52.1427599] [Lua] [HSProbe] Dead Opponents index=14 ID=173244423 Name=Johann ActorClass=BlueprintGeneratedClass /Game/Character/Blueprints/Willie_BP.Willie_BP_C
+[20:46:52.1435610] [Lua] [HSProbe] Dead Opponents index=15 ID=1612720132 Name=Wigand ActorClass=BlueprintGeneratedClass /Game/Character/Blueprints/Willie_BP.Willie_BP_C
+[20:46:52.1443393] [Lua] [HSProbe] Dead Opponents index=16 ID=1856624067 Name=Heinrich ActorClass=BlueprintGeneratedClass /Game/Character/Blueprints/Willie_BP.Willie_BP_C
+[20:46:52.1456078] [Lua] [HSProbe] Dead Opponents index=17 ID=1188146606 Name=Florentin ActorClass=BlueprintGeneratedClass /Game/Character/Blueprints/Willie_BP.Willie_BP_C
+[20:46:52.1463533] [Lua] [HSProbe] Dead Opponents index=18 ID=1286324650 Name=Sigismund ActorClass=BlueprintGeneratedClass /Game/Character/Blueprints/Willie_BP.Willie_BP_C
+[20:46:52.1470810] [Lua] [HSProbe] Dead Opponents index=19 ID=1181890309 Name=Gregor ActorClass=BlueprintGeneratedClass /Game/Character/Blueprints/Willie_BP.Willie_BP_C
+[20:46:52.1478143] [Lua] [HSProbe] Dead Opponents index=20 ID=1591021478 Name=Reinhard ActorClass=BlueprintGeneratedClass /Game/Character/Blueprints/Willie_BP.Willie_BP_C
+[20:46:52.1485730] [Lua] [HSProbe] Dead Opponents index=21 ID=1534653783 Name=Valentin ActorClass=BlueprintGeneratedClass /Game/Character/Blueprints/Willie_BP.Willie_BP_C
+[20:46:52.1492995] [Lua] [HSProbe] Dead Opponents index=22 ID=1267830431 Name=Wolfram ActorClass=BlueprintGeneratedClass /Game/Character/Blueprints/Willie_BP.Willie_BP_C
+[20:46:52.1501294] [Lua] [HSProbe] Dead Opponents index=23 ID=1640858173 Name=Veit ActorClass=BlueprintGeneratedClass /Game/Character/Blueprints/Willie_BP.Willie_BP_C
+[20:46:52.1509592] [Lua] [HSProbe] Dead Opponents index=24 ID=1679616690 Name=Simon ActorClass=BlueprintGeneratedClass /Game/Character/Blueprints/Willie_BP.Willie_BP_C
+[20:46:52.1517362] [Lua] [HSProbe] Dead Opponents index=25 ID=1794518888 Name=Zacharias ActorClass=BlueprintGeneratedClass /Game/Character/Blueprints/Willie_BP.Willie_BP_C
+[20:46:52.1526690] [Lua] [HSProbe] Dead Opponents index=26 ID=1556352437 Name=Dietmar ActorClass=BlueprintGeneratedClass /Game/Character/Blueprints/Willie_BP.Willie_BP_C
+[20:46:52.1534180] [Lua] [HSProbe] Dead Opponents index=27 ID=1289101839 Name=Reinhold ActorClass=BlueprintGeneratedClass /Game/Character/Blueprints/Willie_BP.Willie_BP_C
+[20:46:52.1534630] [Lua] [HSProbe] MAP Hired Characters count=3
+[20:46:52.1542654] [Lua] [HSProbe] Hired Characters key=1196783349 index=- ID=1196783349 Name=Eckhart ActorClass=BlueprintGeneratedClass /Game/Character/Blueprints/Willie_BP.Willie_BP_C
+[20:46:52.1550421] [Lua] [HSProbe] Hired Characters key=1139072850 index=- ID=1139072850 Name=Erasmus ActorClass=BlueprintGeneratedClass /Game/Character/Blueprints/Willie_BP.Willie_BP_C
+[20:46:52.1557844] [Lua] [HSProbe] Hired Characters key=1268654436 index=- ID=1268654436 Name=Anselm ActorClass=BlueprintGeneratedClass /Game/Character/Blueprints/Willie_BP.Willie_BP_C
+[20:46:52.1558258] [Lua] [HSProbe] MAP Mercenaries for Hire count=5
+[20:46:52.1565632] [Lua] [HSProbe] Mercenaries for Hire key=1241981268 index=- ID=1241981268 Name=Joerg ActorClass=BlueprintGeneratedClass /Game/Character/Blueprints/Willie_BP.Willie_BP_C
+[20:46:52.1573194] [Lua] [HSProbe] Mercenaries for Hire key=1523972273 index=- ID=1523972273 Name=Oswald ActorClass=BlueprintGeneratedClass /Game/Character/Blueprints/Willie_BP.Willie_BP_C
+[20:46:52.1581335] [Lua] [HSProbe] Mercenaries for Hire key=1746269107 index=- ID=1746269107 Name=Daniel ActorClass=BlueprintGeneratedClass /Game/Character/Blueprints/Willie_BP.Willie_BP_C
+[20:46:52.1594049] [Lua] [HSProbe] Mercenaries for Hire key=1182775348 index=- ID=1182775348 Name=lambert ActorClass=BlueprintGeneratedClass /Game/Character/Blueprints/Willie_BP.Willie_BP_C
+[20:46:52.1602399] [Lua] [HSProbe] Mercenaries for Hire key=1796777248 index=- ID=1796777248 Name=Daniel ActorClass=BlueprintGeneratedClass /Game/Character/Blueprints/Willie_BP.Willie_BP_C
+[20:46:52.1602843] [Lua] [HSProbe] MAP Mercenaries Health count=3
+[20:46:52.1603398] [Lua] [HSProbe] Mercenaries Health key=1196783349 value=UserDefinedStruct /Game/Blueprints/Structure/Character/Str_Character_Body_Condition.Str_Character_Body_Condition
+[20:46:52.1604063] [Lua] [HSProbe] Mercenaries Health[1196783349] HeadHealth=100.0
+[20:46:52.1604565] [Lua] [HSProbe] Mercenaries Health[1196783349] NeckHealth=100.0
+[20:46:52.1605054] [Lua] [HSProbe] Mercenaries Health[1196783349] ArmRHealth=100.0
+[20:46:52.1605536] [Lua] [HSProbe] Mercenaries Health[1196783349] ArmLHealth=100.0
+[20:46:52.1606039] [Lua] [HSProbe] Mercenaries Health[1196783349] BodyUpperHealth=100.0
+[20:46:52.1606542] [Lua] [HSProbe] Mercenaries Health[1196783349] BodyLowerHealth=100.0
+[20:46:52.1607029] [Lua] [HSProbe] Mercenaries Health[1196783349] LegRHealth=100.0
+[20:46:52.1607512] [Lua] [HSProbe] Mercenaries Health[1196783349] LegLHealth=100.0
+[20:46:52.1608036] [Lua] [HSProbe] Mercenaries Health key=1139072850 value=UserDefinedStruct /Game/Blueprints/Structure/Character/Str_Character_Body_Condition.Str_Character_Body_Condition
+[20:46:52.1609108] [Lua] [HSProbe] Mercenaries Health[1139072850] HeadHealth=100.0
+[20:46:52.1609600] [Lua] [HSProbe] Mercenaries Health[1139072850] NeckHealth=100.0
+[20:46:52.1610078] [Lua] [HSProbe] Mercenaries Health[1139072850] ArmRHealth=100.0
+[20:46:52.1610562] [Lua] [HSProbe] Mercenaries Health[1139072850] ArmLHealth=100.0
+[20:46:52.1611101] [Lua] [HSProbe] Mercenaries Health[1139072850] BodyUpperHealth=100.0
+[20:46:52.1611628] [Lua] [HSProbe] Mercenaries Health[1139072850] BodyLowerHealth=100.0
+[20:46:52.1612116] [Lua] [HSProbe] Mercenaries Health[1139072850] LegRHealth=100.0
+[20:46:52.1612598] [Lua] [HSProbe] Mercenaries Health[1139072850] LegLHealth=100.0
+[20:46:52.1613117] [Lua] [HSProbe] Mercenaries Health key=1268654436 value=UserDefinedStruct /Game/Blueprints/Structure/Character/Str_Character_Body_Condition.Str_Character_Body_Condition
+[20:46:52.1613735] [Lua] [HSProbe] Mercenaries Health[1268654436] HeadHealth=100.0
+[20:46:52.1614216] [Lua] [HSProbe] Mercenaries Health[1268654436] NeckHealth=100.0
+[20:46:52.1614693] [Lua] [HSProbe] Mercenaries Health[1268654436] ArmRHealth=100.0
+[20:46:52.1615168] [Lua] [HSProbe] Mercenaries Health[1268654436] ArmLHealth=100.0
+[20:46:52.1615651] [Lua] [HSProbe] Mercenaries Health[1268654436] BodyUpperHealth=100.0
+[20:46:52.1616137] [Lua] [HSProbe] Mercenaries Health[1268654436] BodyLowerHealth=100.0
+[20:46:52.1616625] [Lua] [HSProbe] Mercenaries Health[1268654436] LegRHealth=100.0
+[20:46:52.1617099] [Lua] [HSProbe] Mercenaries Health[1268654436] LegLHealth=100.0
+[20:46:52.1617480] [Lua] [HSProbe] MAP Mercenaries DayTimes count=3
+[20:46:52.1618108] [Lua] [HSProbe] Mercenaries DayTimes key=1196783349 value=92
+[20:46:52.1618639] [Lua] [HSProbe] Mercenaries DayTimes key=1139072850 value=92
+[20:46:52.1619180] [Lua] [HSProbe] Mercenaries DayTimes key=1268654436 value=3
+[20:46:52.1619556] [Lua] [HSProbe] ARRAY Assigned Mercenaries count=0
+[20:46:52.1619924] [Lua] [HSProbe] ARRAY Expired Mercenaries count=0
+[20:46:52.1620219] [Lua] ========== MERCENARY STATE END ==========
